@@ -16,4 +16,4 @@ There are a few assumptions made here:
  
   yum install words
 
-should install the package on RHEL/Fedora your system.
+should install the package on your RHEL/Fedora system.
